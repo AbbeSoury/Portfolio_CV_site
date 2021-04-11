@@ -19,27 +19,25 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
+            <img className="profile-pic"  src={profilepic} alt="Jules Prugniaud Profile Pic" />
          </div>
          <div className="nine columns main-col">
-            <h2>About Me</h2>
+            <h2>A propos</h2>
 
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
-                  <h2>Contact Details</h2>
+                  <h2>Informations</h2>
                   <p className="address">
 						   <span>{name}</span><br />
-						   <span>{city}<br />
-						         {state}, {zip}
-                   </span><br />
+						   <span>{city}, {zip}</span><br />
 						   <span>{phone}</span><br />
-                     <span><a href="mailto:tbakerx@gmail.com">{email}</a></span>
+                     <span><a href="mailto:jules.prugniaud@hotmail.fr">{email}</a></span>
 					   </p>
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button" target="_blank"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={resumeDownload} className="button" target="_blank"><i className="fa fa-download"></i>Télécharger mon CV</a>
                   </p>
                </div>
             </div>

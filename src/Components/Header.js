@@ -24,21 +24,19 @@ class Header extends Component {
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
          <ul id="nav" className="nav">
-            <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#about">About</a></li>
-	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-            <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
+            <li className="current"><a className="smoothscroll" href="#home">Accueil</a></li>
+            <li><a className="smoothscroll" href="#about">A propos</a></li>
+	         <li><a className="smoothscroll" href="#resume">CV</a></li>
+            <li><a className="smoothscroll" href="#portfolio">Portfolio</a></li>
+            <li><a className="smoothscroll" href="#testimonials">Témoignages</a></li>
+            <li><a className="smoothscroll" href="#contact">Contacts</a></li>
          </ul>
       </nav>
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a <span>{city}</span> based <span>{occupation}</span>, 
-            {description}<span>{employer}</span> where I work as a 
-            <span> {jobDescription}</span>.</h3>
+            <h1 className="responsive-headline">Je suis {name}.</h1>
+            <h3>Je suis un <span>{occupation}</span> disponible sur <span>{city}</span>. Actuellement en mission dans les services IT de la <span>{employer}</span>{jobDescription}.</h3>
             <hr />
             <ul className="social">
                {networks}

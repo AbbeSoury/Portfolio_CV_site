@@ -1,47 +1,35 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"Software Security Engineer",
-    "description":" currently employed by ",
-    "employer":"Shop Your Own Mortgage",
-    "jobDescription":"full stack software engineer across the range of our products, as well being our lead security specialist",
+    "name":"Jules Prugniaud",
+    "occupation":"Business Analyst/Data Analyst",
+    "description":"",
+    "employer":"BNP Paribas",
+    "jobDescription":" , je formalise les problèmes de mes interlocuteurs afin de trouver des solutions pratiques",
     "image":"profile_pic.jpg",
-    "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Having returned from my year of traveling, I pursued my first development job to kick off my career. I was hired as a full stack developer by Shop Your Own Mortgage, where I still work today. Since beginning my career there, I have been given the opportunity to shift into cybersecurity for the company. I am currently working towards my Certified Ethical Hacker certification while working as a full stack developer and lead security specialist.",
-    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
-    "email": "tbakerx@gmail.com",
-    "phone": "(250) 793-0920",
+    "bio":"Après avoir fait des études de Comptabilité, Audit et Conseil et avoir passé un an en mission dans une banque. Je me suis spécialisé dans les systèmes d'information. Mon but étant de travailler dans les DSI d'entreprise afin de les accompagner à créer de la valeur ajoutée pour leurs collaborateurs.",
+    "contactmessage":"Vous avez un projet pour moi? Vous pensez que je serais un bon choix pour votre équipe? Je serais ravi de discuter de différentes opportunités avec vous. N'hésitez pas, contactez moi par mail, téléphone ou ce formulaire.",
+    "email": "jules.prugniaud@hotmail.fr",
+    "phone": "+33 6 89 61 12 83",
     "address":{
-      "street":"Pacific Avenue",
-      "city":"Victoria",
-      "state":"British Columbia",
-      "zip": "V9A 1L6"
+      "city":"Paris",
+      "zip": "75012"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/uc?export=pdf&id=1JZ_9_koC-W0jVg39lGh8Jd0hwJzv8kqn",
+    "website": "http://www.julesprugniaud.com",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1FnWXQIMY1kGd8bVm6RlPzSDlkO7YBdhu",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/julesprugniaud/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbakerx",
+        "url":"http://instagram.com/tradesman_j",
         "className":"fa fa-instagram"
       },
       {
-        "name":"stack-overflow",
-        "url":"https://stackoverflow.com/users/8553186/tim-baker?tab=profile",
-        "className":"fa fa-stack-overflow"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/AbbeSoury",
         "className":"fa fa-github"
       }
     ]
@@ -50,36 +38,54 @@
     "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
     "education":[
       {
-        "school":"University of Victoria",
-        "degree":"Bachelors in Computer Science, Software Engineering Option",
-        "graduated":"Expected April 2018",
-        "description":"Under the recommendation and Guidance of the Head Coach of the UVIC soccer team, I transferred to the University of Victoria. Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+        "school":"Centrale Supélec",
+        "degree":"MS Management des Systèmes d’Information",
+        "graduated":"2019/2020",
+        "description":"Ayant la volonté de travailler sur des sujets qui me plaisent et ayant pris conscience de l'importance des Systèmes d'information au sein des entreprises. J'ai décidé de me spécialisé sur ce sujet. La finalité du MS Management des Systèmes d’Information est de permettre l’acquisition des compétences nécessaires afin d'agir pour la transformation digitale de l'entreprise et de construire l'entreprise de demain."
       },
       {
-        "school":"Grande Prairie Regional College",
-        "degree":"Computer Systems Technology",
-        "graduated":"April 2013",
-        "description":"I attended GPRC for my first 2 years of post-secondary on a scholarship for the college soccer team. While here, I studied Computer Systems Technology, a 2 year lead-in to a Bachelors of Computer Science. This was a very hands-on experience focused more on building projects than general theory. Here I built database structures for fictional companies, created small video games, hand-coded Space Invaders from scratch in Assembly Language, built and coded an Arduino Robot to navigate obstacle courses, a lot of Java and C++ programming for data structures, and much more."
+        "school":"PARIS SCHOOL OF BUSINESS PARIS | Bac+5 Programme Grande École. Accréditation Internationale AMBA",
+        "degree":"Master COMPTABILITÉ,CONSEIL, AUDIT",
+        "graduated":"2016/2018",
+        "description":"Master réalisé en 2 ans en alternance à la Direction des achats Groupe chez EDF"
+      },
+      {
+        "school":"Conservatoire National des Arts et Métiers (CNAM)",
+        "degree":"Master 1 COMPTABILITÉ, CONSEIL, AUDIT",
+        "graduated":"2016",
+        "description":"J'ai suivi cette première année de master en cours du soir en parallèle d'un emploi étudiant et d'un projet en tant qu'auto-entrepreneur."
+      },
+      {
+        "school":"Université Paris XII",
+        "degree":"Licence ÉCONOMIE ET GESTION",
+        "graduated":"2015",
+        "description":"Licence d'économie et de gestion parcours expertise effectuée dans l'université de Paris XII"
       }
     ],
     "work":[
       {
-        "company":"Shop Your Own Mortgage",
-        "title": "Software Security Engineer",
-        "years": "August 2017 - Present",
-        "description": "For most of my time at Shop Your Own Mortgage, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy PHP backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our mobile application written in React Native. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I have been given the opportunity to lead our cybersecurity initiative. As part of our partnership with a number of 3rd parties and our planned expansion into Europe, the need to tighten security and bring our technology up to certain compliance standards has become evident. It is my job to bring us into alignment with these, as well as hardening our security as a whole."
+        "company":"BNP Paribas",
+        "title": "Business Analyst",
+        "years": "Octobre 2020 - Présent",
+        "description": "Ma mission en tant que Business Analsyt à la BNP me permet de me sentir utile en apportant de la valeur ajoutée à mes collaborateurs au sein du service IT. Recueillir les besoins métiers, les analyser pour après les formaliser. Trouver des solutions et les mettre en oeuvre. Organisation d'ateliers et animations de communautés d'utilisateurs. "
       },
       {
-        "company":"City of Fort St. John",
-        "title":"Utility Maintenance Technician 1 / Labourer ",
-        "years":"April 2014 - September 2017",
-        "description":"Working for the City of Fort St. John has given me a solid understanding of a city's infrastructure system and what it takes to keep the things working that we take for granted every day. During my time here I have worked in all roles involved in the Water and Sewer Department, with the exception of equipment operating. I worked as a water meter technician programming the meters in people's homes. I worked in location, excavation, installation and repair of water and sewer lines. I learned how to install, dismantle, troubleshoot, and repair the most popular models of fire hydrants. \n\nWhile working for the Water Treatment and Distribution Department, and alongside one partner, we led the first Uni-Directional Flow program our city has done in years. This requires a thorough understanding of the city's water grid to selectively force excessive pressure through a water line in order to clean it. This must be done in a specific order for every line in the city.   "
+        "company":"Wavestone",
+        "title":"Business Analyst",
+        "years":"Avril 2020 - Septembre 2020",
+        "description":"Au sein de la DSI de Wavestone dans la Feature Team en charge du processus de ventes j'ai pris part à un projet d'alignement entre le CRM (Saleforce) et l'ERP (Odoo) de Wavestone au niveau de la prise de commande. Création et publication de reportings, Dashboards et KPI’S pour quantifier et analyser les écarts entre les progiciels. Envoie d'une synthèse de cette analyse aux project managers.  Participation aux études de cadrage: recueil et analyse des besoins métiers, animation d’ateliers, définition des règles de gestion et maîtrise des processus métiers. Participation aux phases de test d’intégration, de formation et de recette utilisateurs.  Rédaction de la documentation (design, spécification... ) et partage de connaissances avec les équipes. "
       },
       {
-        "company":"School District 60",
-        "title":"IT Technician",
-        "years":"April 2012 - September 2013",
-        "description":"Here I was in charge of various duties involved in keeping the school district's computer systems running smoothly. I performed a varied range of tasks including, but not limited to, reimaging the laptops that the students were given, setting up computer labs, setting up and troubleshooting servers, secure discarding of sensitive data, and a small amount of network analysis."
+        "company":"BNP Paribas",
+        "title":"Data Analyst",
+        "years":"2018 - 2019",
+        "description":"Ma mission en tant que Data Analsyt à la BNP était d'apporter de la valeur aux données à travers des outils comme PowerBI, Tableau Software. J'ai automatisé des reportings grâce à VBA et Python. Mon rôle était de centraliser les problèmes de qualité des données et de participer aux plans d’action / remédiassions. Animation d'ateliers avec les métiers sur des sujets liés à la qualité de la donnée."
+      },
+      {
+        "company":"EDF",
+        "title":"Contrôleur interne / Chargé de conformité",
+        "years":"2016 - 2018",
+        "description":"Alternance de 2 ans réalisé au sein de la Direction des achats GRoupe de la BNP, au contact du responsable ethique et conformité j'ai participé à la mise en oeuvre et au déploiement de la loi SAPIN II au sein de la direction des achats. J'ai effectué différentes missions de contrôles internes qui mesuraient le risque de fraude au sein des achats."
       }
     ],
     "skills":[
