@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "skillmessage":"Je suis toujours intéressé par la découverte de nouveaux outils/langages mais ce sont ceux là sur lesquels j'ai eu l'opportunité de travailler.",
     "education":[
       {
         "school":"Centrale Supélec",
@@ -91,43 +91,43 @@
     "skills":[
       {
         "name":"Git",
-        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "description":"J'utilise Git pour la majorité de mes projets jusqu'à présent. Git est l'outil idéal pour le contrôle de version lors d'un projet en équipe.",
         "image":"git.jpg"
       },
       {
-        "name":"Java",
-        "description":"Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
-        "image":"java.jpg"
+        "name":"VBA",
+        "description":"Excel est l'outil le plus utilisé dans le monde de l'entreprise. VBA permet d'automatiser la majorité des actions d'Excel et des autres outils Microsoft. Le maitriser c'est se faciliter la vie.",
+        "image":"vba.png"
       },
       {
-        "name":"React Js",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
-        "image":"react.jpg"
+        "name":"Python",
+        "description":"Avec ses centaines de milliers de librairies, Python peut être utilisé pour faire à peu près tout, de l'analyse de données, du webscrapping à l'automatisation de tâches.",
+        "image":"Python-Logo-PNG-Image.png"
       },
       {
-        "name":"Meteor JS",
-        "description":"I enjoy MeteorJS for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)",
-        "image":"meteor.jpg"
+        "name":"SQL",
+        "description":"Le langage SQL était le langage de définition et de manipulation de données utilisé par tous et, dans le temps, ce langage pouvait largement répondre et satisfaire aux besoins de la grande majorité des entreprises.",
+        "image":"SQL.png"
       },
 
       {
-        "name":"Node JS",
-        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
-        "image":"node.jpg"
+        "name":"Salesforce",
+        "description":"Salesforce la puissance du CRM et la simplicité de son utilisation.",
+        "image":"salesforce.png"
       },
       {
-        "name":"Bootstrap 4",
-        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
-        "image":"bootstrap.jpg"
+        "name":"PowerBI",
+        "description":"Power BI est une solution de BI développée par Microsoft. Elle permet d'exploiter des données provenant d'innombrables sources, de les nettoyer, les préparer puis les analyser pour enfin les présenter dans des dashboards afin de facilité l'accès à celle ci.",
+        "image":"PowerBI.png"
       },
       {
-        "name":"MongoDB",
-        "description":"I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
-        "image":"mongo.jpg"
+        "name":"Tableau Software",
+        "description":"Au même tritre que PowerBI la suite Tableau Software permet de collecter, analyser, traiter et présenter des données dans des dashboards qui vont raconter une histoire.",
+        "image":"tableau.png"
       },
       {
         "name":"Heroku",
-        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "description":"J'utilise Heroku comme plate-forme d'hébergement pour la plupart de mes projets car Heroku est gratuit. J'apprécie également son intégration avec Github pour un déploiement plus simple.",
         "image":"heroku.jpg"
       }
     ]
