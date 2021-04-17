@@ -91,22 +91,22 @@
     "skills":[
       {
         "name":"Git",
-        "description":"J'utilise Git pour la majorité de mes projets jusqu'à présent. Git est l'outil idéal pour le contrôle de version lors d'un projet en équipe.",
+        "description":"J'utilise Git pour la majorité de mes projets. Git est l'outil idéal pour le contrôle de version lors d'un projet en équipe.",
         "image":"git.jpg"
       },
       {
         "name":"VBA",
-        "description":"Excel est l'outil le plus utilisé dans le monde de l'entreprise. VBA permet d'automatiser la majorité des actions d'Excel et des autres outils Microsoft. Le maitriser c'est se faciliter la vie.",
+        "description":"VBA permet d'automatiser la majorité des actions d'Excel et des autres outils Microsoft. Le maitriser c'est se faciliter la vie.",
         "image":"vba.png"
       },
       {
         "name":"Python",
-        "description":"Avec ses centaines de milliers de librairies, Python peut être utilisé pour faire à peu près tout, de l'analyse de données, du webscrapping à l'automatisation de tâches.",
+        "description":"J'utilise Python pour faire à peu près tout, de l'analyse de données, du webscrapping à l'automatisation de tâches.",
         "image":"Python-Logo-PNG-Image.png"
       },
       {
         "name":"SQL",
-        "description":"Le langage SQL était le langage de définition et de manipulation de données utilisé par tous et, dans le temps, ce langage pouvait largement répondre et satisfaire aux besoins de la grande majorité des entreprises.",
+        "description":"Le langage SQL est le langage de définition et de manipulation de données utilisé pour répondre et satisfaire aux besoins de la grande majorité des entreprises.",
         "image":"SQL.png"
       },
 
@@ -117,7 +117,7 @@
       },
       {
         "name":"PowerBI",
-        "description":"Power BI est une solution de BI développée par Microsoft. Elle permet d'exploiter des données provenant d'innombrables sources, de les nettoyer, les préparer puis les analyser pour enfin les présenter dans des dashboards afin de facilité l'accès à celle ci.",
+        "description":"J'utilise Power BI pour exploiter des données provenant d'innombrables sources, de les nettoyer, les préparer puis les analyser pour enfin les présenter dans des dashboards afin de facilité l'accès à celle ci.",
         "image":"PowerBI.png"
       },
       {
